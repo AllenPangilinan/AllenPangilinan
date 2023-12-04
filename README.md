@@ -1,10 +1,10 @@
 # Hi there, I'm Allen Edward Pangilinan! 👋
 
-I'm passionate about coding and skilled in database management. I love solving complex problems and crafting elegant solutions. My journey in tech began with the BS Information Technology program.
+I'm passionate about coding and skilled in database management. I love solving complex problems and crafting elegant solutions. My journey in tech began with the BS Computer Science program.
 
 ## Education
 
-- **BS Information Technology**
+- **BS Computer Science**
   - New Era University
   - 2022-Present
 
